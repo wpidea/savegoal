@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello world! from git test");
         System.out.println("Hello world! from git test");
         System.out.println("Hello world! from git test4");
+        System.out.println("Hello world! from hot fix");
     }
 }
